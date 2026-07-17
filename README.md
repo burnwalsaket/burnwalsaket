@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Saket Kumar
 
-## ## Welcome to my GitHub! 🚀
+## Welcome to my GitHub! 🚀
 
 Curiosity is what brought me into Data Science, and it's what keeps me here.
 
