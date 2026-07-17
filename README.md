@@ -19,13 +19,15 @@ When I'm away from my keyboard, I'm usually exploring finance, reading, working 
 - 📫 How to reach me **[burnwalsaket@gmail.com](mailto:burnwalsaket@gmail.com)**
 - ⚡ Fun fact **My favorite sport? Wrestling with a stubborn dataset until it gives me what I need!**
 
+  
+![Profile Views](https://komarev.com/ghpvc/?username=burnwalsaket&label=Profile%20Views&color=0077B5&style=flat)
+
+
+
 ## Connect with me:
 <a href="https://twitter.com/burnwalsaket" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"/></a>
 <a href="https://linkedin.com/in/burnwalsaket" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://kaggle.com/burnwalsaket" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
-
-![Profile Views](https://komarev.com/ghpvc/?username=burnwalsaket&label=Profile%20Views&color=0077B5&style=flat)
-
 
 ## Languages and Tools:
 <p align="left">
