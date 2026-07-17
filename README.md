@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&height=100&lines=Aspiring+Data+Scientist;Python+%26+SQL+Enthusiast" alt="Typing SVG" />
 </div>
 
-# Hi 👋, I'm Saket Burnwal
+# Hi 👋, I'm Saket Kumar
 
 ## Hey there! I'm a student and an aspiring data scientist who loves exploring the world of data and discovering the stories hidden within it. I enjoy building projects, writing clean code, and figuring out how to extract meaningful insights. When I'm not writing Python or practicing SQL queries, you might find me exploring home architecture concepts or finding new ways to improve my communication skills. Always learning, always questioning—welcome to my GitHub!
 
