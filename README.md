@@ -15,6 +15,9 @@ When I'm away from my keyboard, I'm usually exploring finance, reading, working 
 
 <img align="right" src="https://camo.githubusercontent.com/ec95521bd589b3aeeb4af239295c4818d31caa06c0f0f2b865a5a8bd75c190e6/68747470733a2f2f696d617274696375732e6f72672f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032302f30392f72742e676966" alt="Data Science GIF" width="400">
 
+![Profile Views](https://komarev.com/ghpvc/?username=burnwalsaket&label=Profile%20Views&color=0077B5&style=flat)
+
+
 [![Follow Me](https://img.shields.io/badge/-Follow%20me-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burnwalsaket/)
 
 
@@ -23,7 +26,7 @@ When I'm away from my keyboard, I'm usually exploring finance, reading, working 
 - ⚡ Fun fact **My favorite sport? Wrestling with a stubborn dataset until it gives me what I need!**
 
   
-![Profile Views](https://komarev.com/ghpvc/?username=burnwalsaket&label=Profile%20Views&color=0077B5&style=flat)
+
 
 
 
