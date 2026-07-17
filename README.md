@@ -40,4 +40,4 @@ When I'm away from my keyboard, I'm usually exploring finance, reading, working 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=pysolanki&show_icons=true&hide_border=true" alt="pysolanki stats" />
+
