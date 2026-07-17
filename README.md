@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/pysolanki/pysolanki/main/developer-activity.gif" alt="MasterHead" width="100%" />
+<img src="https://camo.githubusercontent.com/ffa1f49dbfd3109e54ba5e1bddd9534bf6d1cc2e84b7ee84e6e03be1a87af82f/68747470733a2f2f7374617469632e7665637465657a792e636f6d2f73797374656d2f7265736f75726365732f70726576696577732f3030312f3735392f3736382f6e6f6e5f32782f646174612d736369656e746973742d776f72642d62616e6e65722d766563746f722e6a7067" alt="Data Science Banner" width="100%">
 
 # Hi 👋, I'm Saket Kumar
 
