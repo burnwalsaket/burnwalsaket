@@ -24,6 +24,8 @@ When I'm away from my keyboard, I'm usually exploring finance, reading, working 
 <a href="https://linkedin.com/in/burnwalsaket" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://kaggle.com/burnwalsaket" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
 
+![Profile Views](https://komarev.com/ghpvc/?username=burnwalsaket&label=Profile%20Views&color=0077B5&style=flat)
+
 
 ## Languages and Tools:
 <p align="left">
