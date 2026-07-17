@@ -47,8 +47,9 @@ When I'm away from my keyboard, I'm usually exploring finance, reading, working 
   <a href="https://scikit-learn.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit_learn" width="40" height="40"/>
   </a>
-  <a href="https://seaborn.pydata.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg" alt="seaborn" width="40" height="40"/>
+<a href="https://seaborn.pydata.org/" target="_blank">
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+</a>
   </a>
   <a href="https://www.selenium.dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/>
