@@ -15,7 +15,7 @@ When I'm away from my keyboard, I'm usually exploring finance, reading, working 
 
 
 
-<img src="https://img.shields.io/badge/FOLLOW-@THEPYSOLANKI-gray?style=flat-square" alt="FOLLOW @BURNWALSAKET"/>
+<img src="https://img.shields.io/badge/FOLLOW-@THEBURNWALSAKET-gray?style=flat-square" alt="FOLLOW @BURNWALSAKET"/>
 
 - 💬 Ask me about **Data Science, Python, PostgreSQL**
 - 📫 How to reach me **[burnwalsaket@gmail.com](mailto:burnwalsaket@gmail.com)**
