@@ -13,8 +13,7 @@ You'll find repositories here covering data analysis, machine learning, automati
 When I'm away from my keyboard, I'm usually exploring finance, reading, working on personal projects, or planning the next thing to build.
 
 
-
-[![Follow Me](https://img.shields.io/badge/Follow-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burnwalsaket/)
+[![Follow Me](https://img.shields.io/badge/-Follow%20me-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burnwalsaket/)
 
 - 💬 Ask me about **Data Science, Python, PostgreSQL**
 - 📫 How to reach me **[burnwalsaket@gmail.com](mailto:burnwalsaket@gmail.com)**
