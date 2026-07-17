@@ -24,7 +24,7 @@ When I'm away from my keyboard, I'm usually exploring finance, reading, working 
 ## Connect with me:
 <a href="https://twitter.com/burnwalsaket" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"/></a>
 <a href="https://linkedin.com/in/burnwalsaket" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://stackoverflow.com/users/29832295" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" alt="StackOverflow"/></a>
+<a href="[https://stackoverflow.com/users/edit/32945712]" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" alt="StackOverflow"/></a>
 <a href="https://kaggle.com/burnwalsaket" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
 
 
